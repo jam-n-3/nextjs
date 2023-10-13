@@ -1,0 +1,92 @@
+export const images = [
+  {
+    title: "Irish Flag Bunting",
+    filename: "dublin-1",
+    featured: true,
+    collection: "Dublin",
+  },
+  {
+    title: "Bridge at Night",
+    filename: "dublin-2",
+    featured: true,
+    collection: "Dublin",
+  },
+  {
+    title: "Temple Bar",
+    filename: "dublin-3",
+    featured: false,
+    collection: "Dublin",
+  },
+  {
+    title: "The Spire",
+    filename: "dublin-4",
+    featured: false,
+    collection: "Dublin",
+  },
+  {
+    title: "Old library",
+    filename: "dublin-5",
+    featured: false,
+    collection: "Dublin",
+  },
+  {
+    title: "View",
+    filename: "edinburgh-1",
+    featured: true,
+    collection: "Edinburgh",
+  },
+  {
+    title: "Castle",
+    filename: "edinburgh-2",
+    featured: true,
+    collection: "Edinburgh",
+  },
+  {
+    title: "Sunnier View",
+    filename: "edinburgh-3",
+    featured: false,
+    collection: "Edinburgh",
+  },
+  {
+    title: "Rose Street",
+    filename: "edinburgh-4",
+    featured: false,
+    collection: "Edinburgh",
+  },
+  {
+    title: "Arthurs' Seat",
+    filename: "edinburgh-5",
+    featured: false,
+    collection: "Edinburgh",
+  },
+  {
+    title: "People Make Glasgow",
+    filename: "glasgow-1",
+    featured: true,
+    collection: "Glasgow",
+  },
+  {
+    title: "River",
+    filename: "glasgow-2",
+    featured: true,
+    collection: "Glasgow",
+  },
+  {
+    title: "Duke of Wellington",
+    filename: "glasgow-3",
+    featured: false,
+    collection: "Glasgow",
+  },
+  {
+    title: "Posh Uni",
+    filename: "glasgow-4",
+    featured: false,
+    collection: "Glasgow",
+  },
+  {
+    title: "Ahhh architecture",
+    filename: "glasgow-5",
+    featured: false,
+    collection: "Glasgow",
+  },
+];
